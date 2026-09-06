@@ -101,7 +101,7 @@
 3	життє	життя	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	nmod	_	TokenRange=396:401
 4	народів	народ	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No|TokenRange=402:409
 5	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=409:410
-6	якого	який	PRON	DET	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	8	obj	_	TokenRange=411:416
+6	якого	який	PRON	DET	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	8	obj	_	TokenRange=411:416
 7	вони	вони	PRON	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	TokenRange=417:421
 8	досягнуть	досягнути	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	3	acl:relcl	_	TokenRange=422:431
 9	через	через	ADP	ADP	Case=Acc	10	case	_	TokenRange=432:437
@@ -118,7 +118,7 @@
 20	буде	бути	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	21	cop	_	TokenRange=482:486
 21	виведене	виведений	ADJ	ADJ	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	16	advcl	_	TokenRange=487:495
 22	з	з	ADP	ADP	Case=Gen	24	case	_	TokenRange=496:497
-23	безсторонного	безсторонний	ADJ	ADJ	Case=Gen|Gender=Masc|Number=Sing	24	amod	_	TokenRange=498:511
+23	безсторонного	безсторонній	ADJ	ADJ	Case=Gen|Gender=Masc|Number=Sing	24	amod	_	TokenRange=498:511
 24	суду	суд	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	obl	_	TokenRange=512:516
 25	над	над	ADP	ADP	Case=Ins	26	case	_	TokenRange=517:520
 26	минулим	минуле	ADJ	ADJ	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No|TokenRange=521:528
@@ -128,7 +128,7 @@
 30	,	,	PUNCT	PUNCT	_	31	punct	_	TokenRange=536:537
 31	зробленого	зроблений	ADJ	ADJ	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	29	amod	_	TokenRange=538:548
 32	пісьля	після	NOUN	NOUN	Case=Gen	34	case	_	TokenRange=549:555
-33	безсторонної	безсторонний	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	34	amod	_	TokenRange=556:568
+33	безсторонної	безсторонній	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	34	amod	_	TokenRange=556:568
 34	розваги	розвага	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	obl	_	SpaceAfter=No|TokenRange=569:576
 35	.	.	PUNCT	PUNCT	_	16	punct	_	SpacesAfter=\r\n\r\n\s\r\n\r\n|TokenRange=576:577
 
@@ -578,7 +578,7 @@
 12	можна	можна	ADV	ADV	_	0	root	_	TokenRange=2634:2639
 13	вважати	вважати	VERB	VERB	Aspect=Imp|VerbForm=Inf	12	csubj	_	TokenRange=2640:2647
 14	зовсїм	зовсім	ADV	ADV	_	15	advmod	_	TokenRange=2648:2654
-15	безсторонним	безсторонний	ADJ	ADJ	Case=Ins|Gender=Masc|Number=Sing	13	xcomp	_	SpaceAfter=No|TokenRange=2655:2667
+15	безсторонним	безсторонній	ADJ	ADJ	Case=Ins|Gender=Masc|Number=Sing	13	xcomp	_	SpaceAfter=No|TokenRange=2655:2667
 16	.	.	PUNCT	PUNCT	_	12	punct	_	TokenRange=2667:2668
 
 # doc_id = Vischovannja_pro_XX_vik_1892
